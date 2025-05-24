@@ -11,15 +11,7 @@
     }
   ],
   "users": [
-    {
-      "id": "a605",
-      "name": "Omar",
-      "email": "omar@gamil.com",
-      "password": "OmarEmad10",
-      "photo": "https://res.cloudinary.com/dgdttpjci/image/upload/v1746907515/qk14mowkgvxdrbfjehjz.png",
-      "gender": "Male",
-      "role": "patient"
-    },
+   
     {
       "id": "c758",
       "name": "Omar",
